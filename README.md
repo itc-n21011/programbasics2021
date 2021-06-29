@@ -14,11 +14,11 @@
 
 ## paiza
 
-- ![oshito manaberu](file:///home/n21011/Pictures/Screenshot%20from%202021-06-29%2015-01-06.png)
+- ![oshito manaberu](./image/oshi.png)
 
 
 
-- ![恋するハッカソン](file:///home/n21011/Pictures/Screenshot%20from%202021-06-29%2015-11-27.png)
+- ![恋するハッカソン](./image/idol.png)
 
 ## python3
 
