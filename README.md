@@ -2,7 +2,15 @@
 
 ## Rescuetime
 
-![Rescuetime](file:///home/n21011/Boxes/Python3/image/Screenshot%20from%202021-06-29%2014-58-36.png)
+
+![Rescuetime](./image/Res.png)
+
+
+
+
+
+
+
 
 ## paiza
 
